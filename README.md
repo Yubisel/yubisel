@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 > [![linkedin](https://img.shields.io/badge/linkedin-8b72af?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yubisel/)
 
 ### 💻 My website:
-> [![portfolio](https://img.shields.io/badge/nahuelmarquez.vercel.app-8b72af?style=for-the-badge&logo=googlechrome&logoColor=white)](todo)
+> [![portfolio]()](todo)
 
 ### ⚡ Stats:
 
