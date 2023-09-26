@@ -114,9 +114,6 @@ By me a [Coffe](https://ko-fi.com/yubisel)
 <p>
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat" />
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat" />
-  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&style=flat" />
-  <img alt="Azure Devops" src="https://img.shields.io/badge/Azure DevOps-0078D7?logo=azure+devops&logoColor=white&style=flat" />
-  <img alt="Visual Studio" src="https://img.shields.io/badge/Visual Studio-5C2D91?logo=visual+studio&logoColor=white&style=flat" />
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visual+studio+code&logoColor=white&style=flat" />
 </p>
 
@@ -124,4 +121,5 @@ By me a [Coffe](https://ko-fi.com/yubisel)
 <p>
   <img alt="MacOS" src="https://img.shields.io/badge/MacOS-000000?logo=macos&logoColor=white&style=flat" />
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=flat" />
+  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-FF0000?logo=ubuntu&logoColor=green&style=flat" />
 </p>
