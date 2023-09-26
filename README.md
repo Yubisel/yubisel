@@ -67,13 +67,8 @@ Here are some ideas to get you started:
 ### 🌎 Contact me:
 > [![linkedin](https://img.shields.io/badge/linkedin-8b72af?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yubisel/)
 
-### 💻 My website:
-> [![portfolio]()](todo)
 
 ### ⚡ Stats:
-
-> [![Yubisel's GitHub stats](https://github-readme-stats.vercel.app/api?username=yubisel&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 > [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yubisel&layout=compact&title_color=8b72af&icon_color=8b72af&bg_color=222&text_color=FFF&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
