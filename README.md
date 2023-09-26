@@ -1,5 +1,9 @@
 # Senior Fullstack Engineer
 
+<!-- get log list from here -->
+<!-- https://github.com/simple-icons/simple-icons/blob/master/slugs.md -->
+<!-- and color from here -->
+<!-- https://simpleicons.org/ -->
 
 ## Summary
 I am a Senior Fullstack Engineer with extensive experience in web development using agile methodologies like SCRUM and a strong background in a variety of technologies. Over the years, I have worked with companies like Vangwe, Endava, Dynamia, SoftPei Ingeniería y Sistema, and Desoft, gaining expertise in a wide range of web technologies, including:
@@ -103,13 +107,11 @@ Here are some ideas to get you started:
 
 ## Contact
 
-<a href="https://www.linkedin.com/in/yubisel/">
+<a target="_blank" href="https://www.linkedin.com/in/yubisel/">
   <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=flat" />
-</a>
-<a href="https://github.com/Yubisel">
+</a><a target="_blank" href="https://github.com/Yubisel">
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat" />
-</a>
-<a mailto="yubiselv@gmail.com">
+</a><a target="_blank" href="mailto:yubiselv@gmail.com">
   <img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=flat" />
 </a>
 
