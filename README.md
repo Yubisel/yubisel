@@ -86,7 +86,7 @@ Here are some ideas to get you started:
 </p>
 
 
-**Operating System familiar with:**
+**Familiar with these operating system:**
 <p>
   <img alt="MacOS" src="https://img.shields.io/badge/MacOS-000000?logo=macos&logoColor=white&style=flat" />
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=flat" />
