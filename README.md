@@ -6,7 +6,7 @@
 <!-- https://simpleicons.org/ -->
 
 ## Summary
-I am a Senior Fullstack Engineer with extensive experience in web development using agile methodologies like SCRUM and a strong background in a variety of technologies. Over the years, I have worked with companies like Vangwe, Endava, Dynamia, SoftPei Ingeniería y Sistema, and Desoft, gaining expertise in a wide range of web technologies, including:
+I'm a Fullstack Engineer with extensive experience in web development using agile methodologies like SCRUM and a strong background in a variety of technologies. Over the years, I have worked with companies like Vangwe, Endava, Dynamia, SoftPei Ingeniería y Sistema, and Desoft, gaining expertise in a wide range of web technologies, including:
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat" />
